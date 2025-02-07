@@ -1,6 +1,6 @@
 {
-    "name": "io.github.alexandreprl.amak-unity",
-    "version": "0.1.0",
+    "name": "alexandreprl.amak-unity",
+    "version": "0.1.1",
     "displayName": "AMAK Unity",
     "description": "Implementation of the AMAK framework for Unity",
     "author": {
