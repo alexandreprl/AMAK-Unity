@@ -35,7 +35,6 @@ namespace AMAK.Entities
 
 		public void Cycle()
 		{
-			Debug.Log("Cycle");
 			UpdateEntitiesList(true);
 			OnBeforeCycle?.Invoke();
 			OnCycle();
